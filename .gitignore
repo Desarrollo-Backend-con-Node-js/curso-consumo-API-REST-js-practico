@@ -143,4 +143,4 @@ vite.config.ts.timestamp-*
 .vite/
 
 # Secrets.js (API KEY)
-src/secrets.js
+# src/secrets.js
